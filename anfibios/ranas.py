@@ -1,7 +1,7 @@
 from animales import Animal
 
-class Rana (Animal)
+class Rana (Animal):
     pass
 
-class sapo (Animal)
+class sapo (Animal):
     pass
